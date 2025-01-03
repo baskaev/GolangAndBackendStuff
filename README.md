@@ -167,6 +167,8 @@ Architecture design patterns:
 
     🏖️5) What is serverless computing? https://www.ibm.com/think/topics/serverless
 
+    🏖️6) Каталог паттернов проектирования https://refactoringguru.cn/ru/design-patterns/catalog
+
 Design and Development Principles:
 
     🏖️1) Gangs of Four (GoF) Design Patterns https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns
