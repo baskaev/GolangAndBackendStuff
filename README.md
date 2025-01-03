@@ -2,7 +2,7 @@
 
 OFFICIAL GO DOCS MAIN:
 
-    🌿1) TOUR OF GO
+    ❗️🌿1) TOUR OF GO
     PDF https://docs.google.com/document/d/10jeLcxmK9XQs25hAAHnXpqXpJWR9mco5AKSDXLd3_zg/edit?tab=t.0#heading=h.dz9kx9hn4rh (в папке тоже есть)
 
     https://go.dev/tour/welcome/1
@@ -43,7 +43,11 @@ OFFICIAL GO DOCS MAIN:
 
 FIBER go backend microframework:
 
-    🌿1) official docs https://docs.gofiber.io/
+    ❗️🌿1) official docs https://docs.gofiber.io/
+
+    🌿2) HTTP-серверы на Fiber в Golang https://habr.com/ru/companies/otus/articles/841194/
+
+    💡3) Introduction to Go Fiber https://dev.to/karanpratapsingh/introduction-to-go-fiber-2m0a
 
 Metanit ГО:
 
@@ -125,13 +129,13 @@ Stepic Go:
 
 Git:
 
-    🌿1) Git docs https://git-scm.com/doc
+    ❗️🌿1) Git docs https://git-scm.com/doc
     💡2) Git Lab docs https://docs.gitlab.com/
     💡3) Git Hub docs https://docs.github.com/ru
 
 DataBases:
 
-    🌿1) PostgreSql https://www.postgresql.org/docs/
+    ❗️🌿1) PostgreSql https://www.postgresql.org/docs/
 
     💡2) What is Database Normalization? https://www.guru99.com/database-normalization.html
 
@@ -173,7 +177,7 @@ Design and Development Principles:
 
 Containerization && Virtualization:
 
-    🌿1) Docker https://www.docker.com/get-started/
+    ❗️🌿1) Docker https://www.docker.com/get-started/
 
     💡2) Kubernetes https://kubernetes.io/docs/home/
 
@@ -187,7 +191,7 @@ Search Engines:
 
 Web Serveses:
 
-    🌿1) Nginx docs https://nginx.org/
+    ❗️🌿1) Nginx docs https://nginx.org/
 
 WebSec(md5, sha256, https, cors, ssl etc):
 
@@ -213,6 +217,6 @@ CI/CD:
 
 **"прочитал/знаю/понимаю уровне идеи"** ✅ // в зависимости от первого эмодзи
 
-порядок: 🌿 -> 💡 -> 🏖️
+порядок: ❗️🌿 -> 🌿 -> ❗️💡 -> 💡 -> ❗️🏖️ -> 🏖️
 
 Дата последнего обновления материала: 3 января 2025
