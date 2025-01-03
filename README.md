@@ -167,7 +167,7 @@ Architecture design patterns:
 
     🏖️5) What is serverless computing? https://www.ibm.com/think/topics/serverless
 
-    🏖️6) Каталог паттернов проектирования https://refactoringguru.cn/ru/design-patterns/catalog
+    ❗️🏖️6) Каталог паттернов проектирования https://refactoringguru.cn/ru/design-patterns/catalog
 
 Design and Development Principles:
 
