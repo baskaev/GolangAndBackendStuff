@@ -194,3 +194,6 @@ CI/CD:
     1) https://go-rod.github.io/#/
 
 "\*" - важное
+<span style="color:green;">"учить"</span>
+<span style="color:yellow;">"понимать на уровне идеи"</span>
+"просто почитать"
