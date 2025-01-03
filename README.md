@@ -10,36 +10,36 @@ OFFICIAL GO DOCS MAIN:
     🌿2) Effective Go
     https://go.dev/doc/effective_go
 
-    3)The Go Programming Language Specification
+    💡3)The Go Programming Language Specification
     https://go.dev/ref/spec
 
-    4) Managing dependencies https://go.dev/doc/modules/managing-dependencies
+    🌿4) Managing dependencies https://go.dev/doc/modules/managing-dependencies
 
-    5) Tutorial: Getting started with generics https://go.dev/doc/tutorial/generics
+    🌿5) Tutorial: Getting started with generics https://go.dev/doc/tutorial/generics
 
-    6) Tutorial: Developing a RESTful API with Go and Gin https://go.dev/doc/tutorial/web-service-gin
+    💡6) Tutorial: Developing a RESTful API with Go and Gin https://go.dev/doc/tutorial/web-service-gin
 
-    7) Add a test https://go.dev/doc/tutorial/add-a-test
+    💡7) Add a test https://go.dev/doc/tutorial/add-a-test
 
 БЛОГ ПО ГО:
 
-    1) Defer, Panic, and Recover https://go.dev/blog/defer-panic-and-recover
+    🌿1) Defer, Panic, and Recover https://go.dev/blog/defer-panic-and-recover
 
-    2) Error handling and Go https://go.dev/blog/error-handling-and-go
+    🌿2) Error handling and Go https://go.dev/blog/error-handling-and-go
 
-    3) Using Go Modules https://go.dev/blog/using-go-modules
+    🌿3) Using Go Modules https://go.dev/blog/using-go-modules
 
-    4) An Introduction To Generics https://go.dev/blog/intro-generics
+    🌿4) An Introduction To Generics https://go.dev/blog/intro-generics
 
-    5) JSON and Go https://go.dev/blog/json
+    🌿5) JSON and Go https://go.dev/blog/json
 
 ПАКЕТЫ СТАНДАРТНОЙ ЛИБЫ ГО:
 
-    1) context https://pkg.go.dev/context
+    💡1) context https://pkg.go.dev/context
 
-    2) bytes https://pkg.go.dev/bytes#example-Buffer
+    💡2) bytes https://pkg.go.dev/bytes#example-Buffer
 
-    3) sync https://pkg.go.dev/sync
+    💡3) sync https://pkg.go.dev/sync
 
 FIBER go backend microframework:
 
@@ -55,127 +55,127 @@ Metanit ГО:
 
 Stepic Go:
 
-    1) Разработка веб-сервисов на Golang (Go) https://stepik.org/course/187490/syllabus
+    💡1) Разработка веб-сервисов на Golang (Go) https://stepik.org/course/187490/syllabus
 
-    2) Программирование на Golang Semen Novikov https://stepik.org/course/54403/syllabus
+    💡2) Программирование на Golang Semen Novikov https://stepik.org/course/54403/syllabus
 
-    3) Go (Golang) - первое знакомство Игорь лютый https://stepik.org/course/100208/syllabus
+    💡3) Go (Golang) - первое знакомство Игорь лютый https://stepik.org/course/100208/syllabus
 
 Книги по ГО:
 
-    1) «Язык Go для начинающих», Максим Жашкевич
+    💡1) «Язык Go для начинающих», Максим Жашкевич
     (пдф в папке)
 
-    2) Чистая архитектура Роберт Мартин (дядя Боб)
+    💡2) Чистая архитектура Роберт Мартин (дядя Боб)
     (пдф в файле)
 
-    3) Боднер Идиопы и паттерны проектирования на ГО
+    💡3) Боднер Идиопы и паттерны проектирования на ГО
     (пдф в папке)
 
-    4) Донован Керниган ГО
+    💡4) Донован Керниган ГО
     (пдф в папке)
 
-    5) Го рецепты Мики Тебека
+    💡5) Го рецепты Мики Тебека
 
 Еще по ГО:
 
-    1) Learn X in Y minutes GOLANG example https://learnxinyminutes.com/go/
+    💡1) Learn X in Y minutes GOLANG example https://learnxinyminutes.com/go/
 
-    2) Golang Roadmap https://roadmap.sh/golang
+    🏖️2) Golang Roadmap https://roadmap.sh/golang
 
     🌿3) Go by Example https://gobyexample.com/
     https://gobyexample.com.ru/ - русская версия
 
-    4) Уроки для изучения Golang golangify  https://golangify.com/
+    💡4) Уроки для изучения Golang golangify  https://golangify.com/
 
-    5) Uber Go style https://github.com/uber-go/guide
+    💡5) Uber Go style https://github.com/uber-go/guide
     (мд в папке)
 
-    6) Go Code Review https://go.dev/wiki/CodeReviewComments
+    🏖️6) Go Code Review https://go.dev/wiki/CodeReviewComments
 
-    7) howistart https://howistart.org/posts/go/1/
+    🏖️7) howistart https://howistart.org/posts/go/1/
 
     🌿8) Learn Go with Tests https://quii.gitbook.io/learn-go-with-tests
 
-    9) Ultimate Go Tour https://tour.ardanlabs.com/tour/eng/list
+    💡9) Ultimate Go Tour https://tour.ardanlabs.com/tour/eng/list
 
     отсюда же Scheduling In Go -> https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html
 
-    10) Линтеры https://github.com/golangci/golangci-lint
+    🏖️10) Линтеры https://github.com/golangci/golangci-lint
 
-    11) Вопросы на интервью по голэнгу https://docs.google.com/spreadsheets/d/1U6AEqXkvXz5tzsBATd-1D_o_8NHwkNKOxJiwDwkEzvY/edit?gid=0#gid=0 от Даниила Подольского вроде
+    💡11) Вопросы на интервью по голэнгу https://docs.google.com/spreadsheets/d/1U6AEqXkvXz5tzsBATd-1D_o_8NHwkNKOxJiwDwkEzvY/edit?gid=0#gid=0 от Даниила Подольского вроде
 
-    12) Курс для глубокого понимания го https://go101.org/article/101.html
+    💡12) Курс для глубокого понимания го https://go101.org/article/101.html
 
-    13) GORM https://gorm.io/docs/index.html
+    💡13) GORM https://gorm.io/docs/index.html
     библиотека для языка Go, которая упрощает работу с базами данных
 
-    15) https://cobra.dev/
+    🏖️15) https://cobra.dev/
      библиотека для создания мощных и гибких CLI
 
-    16) Логгирование ZAP https://pkg.go.dev/go.uber.org/zap
+    💡16) Логгирование ZAP https://pkg.go.dev/go.uber.org/zap
 
-    17) Сервер для работы в реальном времени centrifugo https://centrifugal.dev/docs/getting-started/introduction
+    💡17) Сервер для работы в реальном времени centrifugo https://centrifugal.dev/docs/getting-started/introduction
 
-    18) gqlgen GraphQL - https://gqlgen.com/
+    🌿18) gqlgen GraphQL - https://gqlgen.com/
 
-    19) Microservice Architecture by Chris Richardson https://microservices.io/index.html
+    💡19) Microservice Architecture by Chris Richardson https://microservices.io/index.html
 
-    20) gRPC  система удалённого вызова процедур Go https://grpc.io/docs/languages/go/basics/
+    💡20) gRPC  система удалённого вызова процедур Go https://grpc.io/docs/languages/go/basics/
 
 Git:
 
-    1) Git docs https://git-scm.com/doc
-    2) Git Lab docs https://docs.gitlab.com/
-    3) Git Hub docs https://docs.github.com/ru
+    🌿1) Git docs https://git-scm.com/doc
+    💡2) Git Lab docs https://docs.gitlab.com/
+    💡3) Git Hub docs https://docs.github.com/ru
 
 DataBases:
 
     🌿1) PostgreSql https://www.postgresql.org/docs/
 
-    2) What is Database Normalization? https://www.guru99.com/database-normalization.html
+    💡2) What is Database Normalization? https://www.guru99.com/database-normalization.html
 
-    3) What are database migrations? https://www.prisma.io/dataguide/types/relational/what-are-database-migrations
+    💡3) What are database migrations? https://www.prisma.io/dataguide/types/relational/what-are-database-migrations
 
-    4) What is a database transaction? https://fauna.com/blog/database-transaction
+    💡4) What is a database transaction? https://fauna.com/blog/database-transaction
 
-    5) What's an ACID compliant database? https://retool.com/blog/whats-an-acid-compliant-database
+    💡5) What's an ACID compliant database? https://retool.com/blog/whats-an-acid-compliant-database
 
-    6) What is the N+1 Query Problem and How to Solve it? https://planetscale.com/blog/what-is-n-1-query-problem-and-how-to-solve-it
+    💡6) What is the N+1 Query Problem and How to Solve it? https://planetscale.com/blog/what-is-n-1-query-problem-and-how-to-solve-it
 
-    7) What is a Database Index? https://www.codecademy.com/article/sql-indexes
+    💡7) What is a Database Index? https://www.codecademy.com/article/sql-indexes
 
-    8) Курс по sql stepic https://stepik.org/course/63054/
+    🌿8) Курс по sql stepic https://stepik.org/course/63054/
 
 Caching:
 
-    1) Redis https://redis.io/docs/latest/
+    💡1) Redis https://redis.io/docs/latest/
 
 Architecture design patterns:
 
-    1) 14 software architecture design patterns to know https://www.redhat.com/en/blog/14-software-architecture-patterns
+    🏖️1) 14 software architecture design patterns to know https://www.redhat.com/en/blog/14-software-architecture-patterns
 
     🌿2) Pattern: Monolithic Architecture https://microservices.io/patterns/monolithic.html
 
     🌿3) Pattern: Microservice Architecture https://microservices.io/patterns/microservices.html
 
-    4) Что такое сервис-ориентированная архитектура (SOA)? https://aws.amazon.com/what-is/service-oriented-architecture/
+    💡4) Что такое сервис-ориентированная архитектура (SOA)? https://aws.amazon.com/what-is/service-oriented-architecture/
 
-    5) What is serverless computing? https://www.ibm.com/think/topics/serverless
+    🏖️5) What is serverless computing? https://www.ibm.com/think/topics/serverless
 
 Design and Development Principles:
 
-    1) Gangs of Four (GoF) Design Patterns https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns
+    🏖️1) Gangs of Four (GoF) Design Patterns https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns
 
-    2) Domain-Driven Design (DDD) https://redis.io/glossary/domain-driven-design-ddd/
+    🏖️2) Domain-Driven Design (DDD) https://redis.io/glossary/domain-driven-design-ddd/
 
-    3) TDD https://www.guru99.com/test-driven-development.html
+    🏖️3) TDD https://www.guru99.com/test-driven-development.html
 
 Containerization && Virtualization:
 
     🌿1) Docker https://www.docker.com/get-started/
 
-    2) Kubernetes https://kubernetes.io/docs/home/
+    💡2) Kubernetes https://kubernetes.io/docs/home/
 
 Message brokers:
 
@@ -183,7 +183,7 @@ Message brokers:
 
 Search Engines:
 
-    1) Elastic search https://www.elastic.co/docs
+    🏖️1) Elastic search https://www.elastic.co/docs
 
 Web Serveses:
 
@@ -191,17 +191,17 @@ Web Serveses:
 
 WebSec(md5, sha256, https, cors, ssl etc):
 
-    1) Hashing Algoritms https://www.packtpub.com/en-us/learning/how-to-tutorials/implementing-hashing-algorithms-in-golang-tutorial
+    🏖️) Hashing Algoritms https://www.packtpub.com/en-us/learning/how-to-tutorials/implementing-hashing-algorithms-in-golang-tutorial
 
-    2) https://www.neovasolutions.com/2024/07/09/building-secure-apis-integrating-oauth2-and-jwt-with-golang/
+    💡2) https://www.neovasolutions.com/2024/07/09/building-secure-apis-integrating-oauth2-and-jwt-with-golang/
 
 CI/CD:
 
-    1) CI/CD git lab https://about.gitlab.com/topics/ci-cd/
+    💡1) CI/CD git lab https://about.gitlab.com/topics/ci-cd/
 
 Парсинг сайтов c GO:
 
-    1) https://go-rod.github.io/#/
+    💡1) https://go-rod.github.io/#/
 
 **"важное"** ❗️
 
