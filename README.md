@@ -215,6 +215,7 @@ CI/CD:
 Задачи:
 
     🏖️1) Озон контест https://github.com/ssturch/OZON_training_contest_-winter2023-/tree/main
+        дз озон роут 256 https://github.com/Geriler/ozon-route-256/tree/master?tab=readme-ov-file
 
 **"важное"** ❗️
 
