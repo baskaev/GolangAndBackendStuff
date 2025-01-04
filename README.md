@@ -127,6 +127,9 @@ Stepic Go:
 
     💡20) gRPC  система удалённого вызова процедур Go https://grpc.io/docs/languages/go/basics/
 
+    💡21) Применение чистой архитектуры в Go / Хабр
+        https://habr.com/ru/companies/timeweb/articles/810857/
+
 Git:
 
     ❗️🌿1) Git docs https://git-scm.com/doc
