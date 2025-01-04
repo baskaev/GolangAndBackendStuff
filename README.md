@@ -65,6 +65,12 @@ Stepic Go:
 
     💡3) Go (Golang) - первое знакомство Игорь лютый https://stepik.org/course/100208/syllabus
 
+Сливы курсов: 
+
+    💡1) Продвинутый Go-разработчик (1 из 6) (2023) яндекс практикум https://s1.sharewood.co/threads/jandeks-praktikum-prodvinutyj-go-razrabotchik-1-iz-6-2023.446467/
+
+    💡2) Разработка веб-приложений на Go https://s1.sharewood.co/threads/stepik-razrabotka-veb-prilozhenij-na-go-golang-2024.447037/
+
 Книги по ГО:
 
     💡1) «Язык Go для начинающих», Максим Жашкевич
