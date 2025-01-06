@@ -227,6 +227,21 @@ CI/CD:
 
     🏖️3) codeforces.com
 
+Стажировки и курсы, хакатоны от крупных компаний:
+
+    1) yandex https://yandex.ru/yaintern/backend?utm_campaign=yaintern&utm_content=yy&utm_medium=internal&utm_source=telegram&utm_term=go_22.06
+    
+    2) ozon https://route256.ozon.ru/go-developer 
+
+    3) vk https://education.vk.company/program/kurs-go-veb-servisy-golang
+
+    4) сбер https://sberstudent.ru/sberseasons-moscow/
+
+    5) Тинькофф https://education.tbank.ru/start/go/
+
+    6) 
+
+    
 **"важное"** ❗️
 
 **"учить/знать матриал"** 🌿 // имеется ввиду не полностью дословно знать материал а только самые основные определения и понятия
