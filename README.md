@@ -136,6 +136,8 @@ Stepic Go:
     💡21) Применение чистой архитектуры в Go / Хабр
         https://habr.com/ru/companies/timeweb/articles/810857/
 
+    💡23) Clean Arch in go github repohttps://github.com/amitshekhariitbhu/go-backend-clean-architecture
+
 Git:
 
     ❗️🌿1) Git docs https://git-scm.com/doc
